@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url('./images/img_nature.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.form-cl{
+    position: absolute;
+    top: 10%;
+    right: 2%;
+    background: #fff;
+    max-width: 250px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.form-cl h1{
+    margin: 15px 0;
+}
+.form-cl label{
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+}
+.form-cl input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button[type="submit"]{
+    background: #04AA6D;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}

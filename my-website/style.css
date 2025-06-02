@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-resize-box{
+    background: yellow;
+    height: 74px;
+}
+.resize-wrapper{
+    text-align: center;
+    line-height: 4;
+}
+.resize-tag{
+    font-size: 18px;
+    font-weight: 600;
+}
+.mywebsite-box{
+    height: 234px;
+    padding: 60px;
+    background: #1abc9c;
+}
+.mywebsite-wrapper{
+    margin: auto;
+    text-align: center;
+}
+.my-website-small-text{
+    font-size: 18px;
+    margin-top: 16px;
+}
+.my-webiste-text{
+    font-size: 37px;
+    font-weight: 600;
+}
+.mywebsite-wrapper{
+    margin: auto;
+    text-align: center;
+}
+.menu-box{
+    height: 46px;
+    background: #333;
+    padding: 11px;
+}
+.menu-box a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.menu-box a:hover{
+    background: #ddd;
+    color: #000;
+    padding: 12px;
+}
+.aboutme-box{
+    width: 20%;
+    float: left;
+    padding: 40px 30px;
+    background: #f1f1f1;
+}
+.desc-box{
+    width: 80%;
+    float: left;
+}
+.aboutme-h2{
+    margin: 20px 0;
+}
+.aboutme-box h5, .desc-box h5{
+    margin: 15px 0;
+}
+.fakeimg{
+    background: #aaa;
+    padding: 40px;
+}
+.aboutme-box, .desc-box p{
+    margin: 15px 0;
+}
+.desc-box{
+    padding: 40px 30px;
+}
+.desc-box h2{
+    margin: 20px 0;
+}
+.footer-box{
+    height: 100px;
+    background: #ccc;
+    clear: both;
+}
+.footer-wrapper{
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    line-height: 3.3;
+}

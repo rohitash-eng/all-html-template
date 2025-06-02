@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url('./images/notebook.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.text-cl{
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+    font-size: 1.5em;
+    color: #fff;
+    background: rgba(0, 0, 0, .5);
+}

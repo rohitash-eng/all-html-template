@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-box, .nav-box, .footer-box{
+    height: 100px;
+    border: 1px solid;
+}
+.middle-box{
+    height: calc(100vh - 306px);
+}
+.middle-left-box{
+    width: 70%;
+    border: 1px solid;
+    height: 300px;
+    float: left;
+}
+.middle-right-box{
+    width: 30%;
+    border: 1px solid;
+    height: 300px;
+    float: left;
+}
+
+/* Height calculation = calc(100vh - (height of header + height of nav + height of footer + margin + padding + border))
+
+keep in  mind 
+    1. Padding and border are inside the box and reduce available content space unless you are using box-sizing: border-box */
