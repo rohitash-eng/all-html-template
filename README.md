@@ -40,7 +40,7 @@ _Title:_ `chess-layout-using-float-css | Chess Layout Using Float CSS`
 
 ### 4. **Login form on Image Using CSS**
 _Title:_ `Login form on Image Using CSS`  
-![Login form on Image Using CSS](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.19%E2%80%AFPM.png)
+![Login form on Image Using CSS](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.35%E2%80%AFPM.png)
 
 ---
 
@@ -56,17 +56,12 @@ _Title:_ `Website Layout | My First Website Layout Using Float CSS`
 
 ---
 
-### 7. **Alternate Blog Float Style**
-![Alternate Blog Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.01%E2%80%AFPM.png)
+### 7. **My Blog layout**
+![My Blog layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.19%E2%80%AFPM.png)
 
 ---
 
-### 8. **Simple Image Caption Layout**
-![Image Caption Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.35%E2%80%AFPM.png)
-
----
-
-### 9. **blur Background Image**
+### 8. **blur Background Image**
 _Title:_ `blur Background Image`  
 ![blur Background Image](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.50%E2%80%AFPM.png)
 
