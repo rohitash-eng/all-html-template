@@ -28,7 +28,7 @@ _Title:_ `Change Background Image on Scroll`
 
 ### 2. **Show Text on Image When Hover**
 _Title:_ `Show Text on Image When Hover`  
-![Text on Image Hover](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.23%E2%80%AFPM.png)
+[![Text on Image Hover](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.23%E2%80%AFPM.png)](https://youtu.be/Lw92wnvJENA?si=vVwY3Camp7IPGh11)
 
 ---
 
@@ -40,13 +40,13 @@ _Title:_ `chess-layout-using-float-css | Chess Layout Using Float CSS`
 
 ### 4. **Login form on Image Using CSS**
 _Title:_ `Login form on Image Using CSS`  
-![Login form on Image Using CSS](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.35%E2%80%AFPM.png)
+[![Login form on Image Using CSS](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.35%E2%80%AFPM.png)](https://youtu.be/DS7mfHRpu2I?si=AL3xHzRCKJBEaD7b)
 
 ---
 
 ### 5. **W3Schools City Layout Using Float CSS**
 _Title:_ `W3Schools City Layout Using Float CSS | HTML CSS Float Layout Tutorial`  
-![W3Schools City Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.48.52%E2%80%AFPM.png)
+(![W3Schools City Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.48.52%E2%80%AFPM.png))(https://youtu.be/6NB-jM5FpKc?si=MkcavxdTN58pUk7-)
 
 ---
 
@@ -57,13 +57,13 @@ _Title:_ `Website Layout | My First Website Layout Using Float CSS`
 ---
 
 ### 7. **My Blog layout**
-![My Blog layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.19%E2%80%AFPM.png)
+[![My Blog layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.19%E2%80%AFPM.png)](https://youtu.be/23IuQEQYX-E?si=YwvyBncoQvC4Has4)
 
 ---
 
 ### 8. **blur Background Image**
 _Title:_ `blur Background Image`  
-![blur Background Image](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.50%E2%80%AFPM.png)
+[![blur Background Image](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.50%E2%80%AFPM.png)](https://youtu.be/UoYqyyu9HEE?si=8t21T3wx-VsAt9SY)
 
 ---
 ## 🎥 Learn via Video
