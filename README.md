@@ -52,7 +52,7 @@ _Title:_ `W3Schools City Layout Using Float CSS | HTML CSS Float Layout Tutorial
 
 ### 6. **Website Layout | My First Website Layout Using Float CSS**
 _Title:_ `Website Layout | My First Website Layout Using Float CSS`  
-![My First Website](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.10%E2%80%AFPM.png)
+[![My First Website](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.10%E2%80%AFPM.png)](https://youtu.be/g62Sc3fY69c?si=kFypwwCrU6IcmWVi)
 
 ---
 
@@ -77,3 +77,6 @@ Want to **see how these templates are built and explained** step-by-step?
 ## 🙌 Contribute or Fork
 
 Feel free to **fork**, **modify**, or **contribute** improvements to these templates. Happy coding!
+
+
+(https://youtu.be/g62Sc3fY69c?si=kFypwwCrU6IcmWVi)
