@@ -22,7 +22,7 @@ These templates are ideal for anyone starting with web development who wants to 
 
 ### 1. **Change Background Image on Scroll**
 _Title:_ `Change Background Image on Scroll`  
-![Change Background on Scroll](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.48.52%E2%80%AFPM.png)
+![Change Background on Scroll](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2011.15.04%E2%80%AFPM.png)
 
 ---
 
@@ -46,7 +46,7 @@ _Title:_ `My Blog Layout Using Float CSS`
 
 ### 5. **W3Schools City Layout Using Float CSS**
 _Title:_ `W3Schools City Layout Using Float CSS | HTML CSS Float Layout Tutorial`  
-![W3Schools City Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.50%E2%80%AFPM.png)
+![W3Schools City Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.48.52%E2%80%AFPM.png)
 
 ---
 
@@ -66,6 +66,11 @@ _Title:_ `Website Layout | My First Website Layout Using Float CSS`
 
 ---
 
+### 9. **blur Background Image**
+_Title:_ `Change Background Image`  
+![blur Background Image](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.50%E2%80%AFPM.png)
+
+---
 ## 🎥 Learn via Video
 
 Want to **see how these templates are built and explained** step-by-step?  
