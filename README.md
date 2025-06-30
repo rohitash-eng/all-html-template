@@ -28,13 +28,13 @@ _Title:_ `Change Background Image on Scroll`
 
 ### 2. **Show Text on Image When Hover**
 _Title:_ `Show Text on Image When Hover`  
-![Text on Image Hover](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.10%E2%80%AFPM.png)
+![Text on Image Hover](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.23%E2%80%AFPM.png)
 
 ---
 
 ### 3. **Chess Layout Using Float CSS**
 _Title:_ `chess-layout-using-float-css | Chess Layout Using Float CSS`  
-![Chess Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.23%E2%80%AFPM.png)
+![Chess Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.32%E2%80%AFPM.png)
 
 ---
 
@@ -52,12 +52,12 @@ _Title:_ `W3Schools City Layout Using Float CSS | HTML CSS Float Layout Tutorial
 
 ### 6. **Website Layout | My First Website Layout Using Float CSS**
 _Title:_ `Website Layout | My First Website Layout Using Float CSS`  
-![My First Website](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.01%E2%80%AFPM.png)
+![My First Website](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.10%E2%80%AFPM.png)
 
 ---
 
 ### 7. **Alternate Blog Float Style**
-![Alternate Blog Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.32%E2%80%AFPM.png)
+![Alternate Blog Layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.01%E2%80%AFPM.png)
 
 ---
 
