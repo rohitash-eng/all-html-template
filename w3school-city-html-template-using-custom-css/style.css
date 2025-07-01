@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cities-box{
+    height: 150px;
+    background: #666;
+    color: #fff;
+    font-size: 35px;
+}
+.footer-box{
+    height: 80px;
+    background: #666;
+    font-size: 15px;
+    color: #fff;
+}
+.middle-box{
+    height: calc(100vh - 230px);
+}
+.cities-box h1{
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+.footer-box div{
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+.middle-left-box{
+    float: left;
+    width: 20%;
+    height: 100%;
+    background: #ccc;
+}
+.middle-right-box{
+    float: left;
+    width: 80%;
+    height: 100%;
+    background: #f1f1f1;
+}
+.anchore-tag-city, .right-content-box{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.anchore-tag-city a{
+    display: block;
+}
+.right-content-box h1{
+    font-size: 42px;
+}
+.right-content-box p{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+/* Height calculation = calc(100vh - (height of header + height of nav + height of footer + margin + padding + border))
+
+keep in  mind 
+    1. Padding and border are inside the box and reduce available content space unless you are using box-sizing: border-box */
