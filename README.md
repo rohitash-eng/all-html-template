@@ -1,4 +1,4 @@
-# 🌐 If you want to contribute, please create your own branch from main then raise the PR for main, I will review and merge into main
+# 🌐 If you want to contribute, please create your own branch from main then raise the PR for main, I will review and merge into main.
 
 This repository contains a collection of simple **HTML templates** created to help beginners learn and understand the **structure of HTML documents** and the basics of **CSS styling**, particularly using the **float layout technique**.
 
