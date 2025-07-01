@@ -1,4 +1,4 @@
-# 🌐 HTML Layout Templates — Learn HTML and CSS
+# 🌐 If you want to contribute, please create your own branch from main then raise the PR for main, I will review and merge into main
 
 This repository contains a collection of simple **HTML templates** created to help beginners learn and understand the **structure of HTML documents** and the basics of **CSS styling**, particularly using the **float layout technique**.
 
@@ -7,14 +7,16 @@ This repository contains a collection of simple **HTML templates** created to he
 ## 📚 What’s Inside?
 
 Each template showcases different layout concepts, built with:
-- 🧱 Plain HTML elements
-- 🎨 Basic CSS (no frameworks)
+- 🧱 How to create the html structure of any design
+- 🎨 complete the design with normal css or using float left (no frameworks)
 - ➡️ `float: left` for layout positioning
 
 These templates are ideal for anyone starting with web development who wants to learn:
 - Semantic HTML structure
 - CSS styling basics
 - Float-based layouts
+- Responsive design principles
+- how to create html structure of any design
 
 ---
 
