@@ -98,7 +98,7 @@ _Title:_ `website-layout-my-first-website-using-float-css`
 
 ### 15. **w3school-city-html-template-using-custom-css**
 _Title:_ `w3school-city-html-template-using-custom-css`  
-[![w3school-city-html-template-using-custom-css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/add-new-project/w3school-car-full-layout-html-example-using-float-left/images/Screenshot%202025-07-01%20at%202.46.36%E2%80%AFPM.png)](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)
+[![w3school-city-html-template-using-custom-css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/w3school-city-html-template-using-custom-css/images/Screenshot%202025-07-01%20at%202.53.18%E2%80%AFPM.png)](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)
 
 
 ## 🎥 Learn via Video
