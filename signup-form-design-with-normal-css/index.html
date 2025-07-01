@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- ✅ SEO Title and Description -->
+    <title>Signup Page using HTML and CSS | How to Create Signup Page | Modern Signup Page Template</title>
+    <meta name="description"
+        content="Learn how to create a responsive and modern Signup page using HTML and CSS. Includes step-by-step code, design layout, and a customizable Signup template." />
+    <meta name="keywords"
+        content="Signup page HTML CSS, Signup form template, how to create Signup page, responsive Signup design, html css Signup page example, Signup UI" />
+    <meta name="author" content="Rohitash-eng" />
+
+    <!-- ✅ Open Graph for Social Sharing -->
+    <meta property="og:title" content="Signup Page Using HTML and CSS | Template & Tutorial" />
+    <meta property="og:description"
+        content="Explore a simple yet elegant Signup page design made using HTML and CSS. Perfect for beginners and web developers." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://github.com/rohitash-eng/html-layout-using-float-css-normal-custom-css" />
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.35%E2%80%AFPM.png" />
+
+    <!-- ✅ Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Signup Page Using HTML and CSS | Design Tutorial" />
+    <meta name="twitter:description"
+        content="Step-by-step tutorial to build a Signup form using HTML and CSS. Comes with responsive UI and clean design." />
+    <meta name="twitter:image"
+        content="https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.35%E2%80%AFPM.png" />
+
+    <!-- ✅ CSS Stylesheet -->
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+    <div class="signup-container">
+        <h2>Sign Up</h2>
+        <form onsubmit="event.preventDefault();">
+            <div class="form-control">
+                <label for="name">Full Name</label>
+                <input type="text" id="name" placeholder="Enter your full name" required>
+                <span style="color: red;display: none;">Please enter the full name value</span>
+            </div>
+            <div class="form-control">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="Enter your email" required>
+            </div>
+            <div class="form-control">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Create a password" required>
+            </div>
+            <div class="form-control">
+                <label for="confirm-password">Confirm Password</label>
+                <input type="password" id="confirm-password" placeholder="Confirm your password" required>
+            </div>
+            <button type="submit" class="signup-button">Sign Up</button>
+        </form>
+        <p onclick="validate();">Already have an account? <a href="#">Signup</a></p>
+    </div>
+</body>
+
+<script>
+
+    function validate() {
+        var fullname = document.getElementById('name').value;
+        console.log('fullname=======', fullname);
+        if (fullname == "") {
+        }
+    }
+
+</script>
+
+</html>
