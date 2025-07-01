@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.photo2-container{
+    width: 100%;
+    height: auto;
+}
+.photo2-menu{
+    background: #009688;
+    height: 70px;
+    margin: 0 auto;
+    line-height: 70px;
+    color: #fff;
+    padding: 0 40px;
+}
+.photo2-card-left{
+    width: 33.3%;
+    float: left;
+    position: relative;
+    margin: 0 10px;
+}
+.photo2-card-right{
+    width: 64%;
+    float: left;
+    margin: 10px 0;
+}
+.photo2-image img{
+    width: 100%;
+}
+.photo2-card-right .photo2-title{
+    margin: 0 10px;
+    font-size: 24px;
+}
+.photo2-card-right .photo2-desc{
+    margin: 20px 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: 1.3px;
+}
+
+/* 
+kisi div ko always centered me show karne ke liye ham
+max-width de sakte hai
+marign auto dekar ham kisi bhi div ko center me
+show kar sakte hai */
+.photo2-container-content{
+    margin: 16px;
+    height: 227px;
+}
+.photo2-content{
+    max-width: 980px;
+    margin: auto;
+}
+/* responsive me ham mobile ke accordingly width 100% kar sakte hai */
+@media screen and (max-width: 767px) {
+    .photo2-card-left, .photo2-card-right{
+        width: 100%;
+        margin: 0;
+    }
+    .photo2-container-content{
+        height: auto;
+    }
+}

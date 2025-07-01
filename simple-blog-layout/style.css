@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blog-main-header {
+    background: #9e9e9e;
+    height: 100px;
+    line-height: 100px;
+    text-align: left;
+    color: #757575;
+    text-shadow: 1px 1px 0 #444;
+}
+
+.blog-main-header h2 {
+    font-size: 45px;
+    font-weight: 300;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.blog-main-footer {
+    background: #9e9e9e;
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+    color: #000;
+    font-size: 12px;
+    margin: auto;
+    width: 100%;
+    clear: both;
+}
+
+.blog-main-footer p {
+    text-align: center;
+}
+
+.blog-main-content {
+    background: url('../images/boat.jpeg');
+    background-size: cover;
+    padding: 20px 50px;
+    overflow: hidden;
+}
+
+.blog-main-content-left {
+    width: 65%;
+    float: left;
+}
+
+.blog-main-content-img img {
+    height: 100%;
+    width: 100%;
+}
+
+.blog-main-content-img {
+    position: relative;
+}
+
+.blog-tooltip p {
+    position: absolute;
+    bottom: 5%;
+    left: 36px;
+    color: #000;
+    font-size: 33px;
+}
+
+.blog-title-container {
+    background: #ccc;
+    padding: 22px;
+}
+
+.blog-title-container h2 {
+    margin: 10px 15px;
+    font-size: 21px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.blog-main-content-right {
+    width: 33%;
+    float: left;
+}
+
+.blog-title-container p {
+    font-size: 12px;
+    margin: 10px 15px;
+}
+
+.blog-1-email-box {
+    background: #ccc;
+    line-height: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.blog-1-email-box .para {
+    margin: 0 auto;
+    height: 300px;
+    line-height: 300px;
+    text-align: center;
+    font-size: 70px;
+}
+
+.blog-1-email-box-sub {
+    line-height: 1;
+    text-align: center;
+    margin: 10px;
+}
+
+.title-email {
+    line-height: 1;
+    text-align: center;
+}
+
+.blog-1-email-box-2 {
+    width: 92%;
+    height: 300px;
+    background: #ccc;
+    margin: 20px;
+}
+
+.blog-main-content::after {
+    content: "";
+    display: table;
+    clear: both;
+}
