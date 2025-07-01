@@ -77,6 +77,21 @@ _Title:_ `Sign up design | Sign up page html css | Signup page with normal css`
 ![Sign up design | Sign up page html css | Signup page with normal css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/signup-form-design-with-normal-css/images/Screenshot%202025-07-01%20at%2012.03.52%E2%80%AFPM.png)
 
 ---
+
+### 11. **w3school simple-blog-layout**
+_Title:_ `w3school simple-blog-layout`  
+[![w3school simple-blog-layout](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/558c8164aa7370f444b749099ba939754ab1dfc6/simple-blog-layout/image/Screenshot%202025-07-01%20at%2012.58.43%E2%80%AFPM.png)](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)
+
+
+### 12. **w3school album-design**
+_Title:_ `w3school album-design`  
+[![w3school album-design](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/558c8164aa7370f444b749099ba939754ab1dfc6/album-design/images/Screenshot%202025-07-01%20at%201.04.49%E2%80%AFPM.png)](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)
+
+### 13. **w3school-summer-holiday-design**
+_Title:_ `w3school-summer-holiday-design`  
+[![w3school-summer-holiday-design](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/558c8164aa7370f444b749099ba939754ab1dfc6/w3school-summer-holiday-design/images/Screenshot%202025-07-01%20at%201.12.34%E2%80%AFPM.png)](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)
+
+
 ## 🎥 Learn via Video
 
 Want to **see how these templates are built and explained** step-by-step?  
