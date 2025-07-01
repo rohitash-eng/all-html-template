@@ -67,6 +67,15 @@ _Title:_ `Website Layout | My First Website Layout Using Float CSS`
 _Title:_ `blur Background Image`  
 [![blur Background Image](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.49.50%E2%80%AFPM.png)](https://youtu.be/UoYqyyu9HEE?si=8t21T3wx-VsAt9SY)
 
+### 9. **Login design | Login page html css | login page with normal css**
+_Title:_ `Login design | Login page html css | login page with normal css`  
+![Login design | Login page html css | login page with normal css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/login-form-normal-css/images/Screenshot%202025-07-01%20at%2011.47.14%E2%80%AFAM.png)
+
+
+### 10. **Sign up design | Sign up page html css | Signup page with normal css**
+_Title:_ `Sign up design | Sign up page html css | Signup page with normal css`  
+![Sign up design | Sign up page html css | Signup page with normal css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/signup-form-design-with-normal-css/images/Screenshot%202025-07-01%20at%2012.03.52%E2%80%AFPM.png)
+
 ---
 ## 🎥 Learn via Video
 
