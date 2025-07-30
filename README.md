@@ -1,6 +1,14 @@
-# 🌐 If you want to contribute, please create your own branch from main then raise the PR for main, I will review and merge into main.
+## 🎥 Learn via Video
 
-This repository contains a collection of simple **HTML templates** created to help beginners learn and understand the **structure of HTML documents** and the basics of **CSS styling**, particularly using the **float layout technique**.
+Want to **see how these templates are built and explained** step-by-step?  
+👉 Watch my YouTube tutorial playlist here:  
+**[📺 HTML + CSS Float Layout Tutorials](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)**
+
+--- ### watch video tutorial on youtube
+(https://youtu.be/g62Sc3fY69c?si=kFypwwCrU6IcmWVi)
+
+
+### This repository contains a collection of simple **HTML templates** created to help beginners learn and understand the **structure of HTML documents** and the basics of **CSS styling**, particularly using the **float layout technique**.
 
 ---
 
@@ -101,17 +109,3 @@ _Title:_ `w3school-city-html-template-using-custom-css`
 [![w3school-city-html-template-using-custom-css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/w3school-city-html-template-using-custom-css/images/Screenshot%202025-07-01%20at%202.53.18%E2%80%AFPM.png)](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)
 
 
-## 🎥 Learn via Video
-
-Want to **see how these templates are built and explained** step-by-step?  
-👉 Watch my YouTube tutorial playlist here:  
-**[📺 HTML + CSS Float Layout Tutorials](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)**
-
----
-
-## 🙌 Contribute or Fork
-
-Feel free to **fork**, **modify**, or **contribute** improvements to these templates. Happy coding!
-
-
-(https://youtu.be/g62Sc3fY69c?si=kFypwwCrU6IcmWVi)
